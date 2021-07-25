@@ -27,17 +27,17 @@ The process followed is highlighted below:
 
 - How is the ranking of the channels in regards to the shares Shares?
 
-- What data channel has the most popularity and what feature in that particular data channel contributes towards that asserction. Is this also observed in the other data channels?
+- What data channel has the most popularity and what feature in that particular data channel contributes towards that asserction. Is this also observed in the other data        channels?
 
--What about the effects of the Worst, Best, and Avg keywords?
+- What about the effects of the Worst, Best, and Avg keywords?
 
--Is their an influence on the min, max or avg shares on each article referenced articles. Does the number of shares in those referenced articles also influence the number of   shares in the main article?
+- Is their an influence on the min, max or avg shares on each article referenced articles. Does the number of shares in those referenced articles also influence the number of     shares in the main article?
 
 - At what point in the weekend do people share articles the most? Can that means people read those articles the most on those days?
 
-- What is the effect of LDA analysis on the article popularity ?
+- What is the effect of LDA analysis on the article Shares?
 
-- Does article with more text sentiment influence the popularity
+- Does article with more text sentiment influence the Shares?
 
 - what the is relationship between the text sentiment and the article publish day? Are more sentiment on a particlar day?
 
